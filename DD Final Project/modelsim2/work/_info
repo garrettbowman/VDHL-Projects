@@ -1,0 +1,310 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/DD/Lab7/firstmodelsim
+Ememory
+Z0 w1649087112
+Z1 DPx9 altera_mf 20 altera_mf_components 0 22 Sn8Ol<dGSW99iM6NfOU>g1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/intelFPGA_lite/DD/Lab7/modelsim2
+Z8 8C:/intelFPGA_lite/DD/Lab7/memory.vhd
+Z9 FC:/intelFPGA_lite/DD/Lab7/memory.vhd
+l0
+L10
+V8@4S?c5gLf=YM]PMO=gMT2
+!s100 kI];<8Dg92lhozc?RTFOE3
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1649225813
+!i10b 1
+Z12 !s108 1649225813.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/DD/Lab7/memory.vhd|
+Z14 !s107 C:/intelFPGA_lite/DD/Lab7/memory.vhd|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abhv
+Z17 DEx4 work 4 reg1 0 22 flnL;5A7M^J5KJMCeR@;j3
+Z18 DEx4 work 7 mux_3x1 0 22 0c8=[80[IX==oHA?0A1I[1
+Z19 DEx4 work 4 ram1 0 22 <U<EF1bkXbXk[zjTEX^:b1
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 6 memory 0 22 8@4S?c5gLf=YM]PMO=gMT2
+l61
+L27
+VX>lQGUOVT:D2HO=IUi<gz2
+!s100 QfdOH>WhFK4nb?NQ;TeRb1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Emux_3x1
+Z20 w1648494782
+R5
+R6
+R7
+Z21 8C:\intelFPGA_lite\DD\Lab7\mux_3x1.vhd
+Z22 FC:\intelFPGA_lite\DD\Lab7\mux_3x1.vhd
+l0
+L4
+V0c8=[80[IX==oHA?0A1I[1
+!s100 =TBLH<HI=he=Gldl36S332
+R10
+32
+R11
+!i10b 1
+R12
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\intelFPGA_lite\DD\Lab7\mux_3x1.vhd|
+Z24 !s107 C:\intelFPGA_lite\DD\Lab7\mux_3x1.vhd|
+!i113 1
+R15
+R16
+Abhv
+R5
+R6
+R18
+l18
+L17
+V3Q?JDEdG<7ZD9^HfZhjPR0
+!s100 DalQB>71VX_m[H:ezLK@e3
+R10
+32
+R11
+!i10b 1
+R12
+R23
+R24
+!i113 1
+R15
+R16
+Eram
+Z25 w1648445904
+R1
+R5
+R6
+R7
+Z26 8C:/intelFPGA_lite/DD/Lab7/ram.vhd
+Z27 FC:/intelFPGA_lite/DD/Lab7/ram.vhd
+l0
+L42
+VBO?fNB9I`@ko=DKckMRA`3
+!s100 XoJKFa@P^0]5GcLK_:cmL1
+R10
+32
+Z28 !s110 1649221081
+!i10b 1
+Z29 !s108 1649221081.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/DD/Lab7/ram.vhd|
+Z31 !s107 C:/intelFPGA_lite/DD/Lab7/ram.vhd|
+!i113 1
+R15
+R16
+Asyn
+R1
+R5
+R6
+DEx4 work 3 ram 0 22 BO?fNB9I`@ko=DKckMRA`3
+l58
+L54
+VV9`Uf`2SEfb_@SM4MS1Kn2
+!s100 6lWHPY>E@GjWFGNVhQnlF0
+R10
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R15
+R16
+Eram1
+Z32 w1649085706
+R1
+R5
+R6
+R7
+Z33 8C:/intelFPGA_lite/DD/Lab7/ram1.vhd
+Z34 FC:/intelFPGA_lite/DD/Lab7/ram1.vhd
+l0
+L42
+V<U<EF1bkXbXk[zjTEX^:b1
+!s100 ^o;;GQ6QM_JRZncGec6n:1
+R10
+32
+R11
+!i10b 1
+R12
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/DD/Lab7/ram1.vhd|
+Z36 !s107 C:/intelFPGA_lite/DD/Lab7/ram1.vhd|
+!i113 1
+R15
+R16
+Asyn
+R1
+R5
+R6
+R19
+l58
+L54
+Z37 VII?_8P00:=oahQTj[R_bz2
+Z38 !s100 @0zD5eP35RC7dEo1W=UlW2
+R10
+32
+R11
+!i10b 1
+R12
+R35
+R36
+!i113 1
+R15
+R16
+Ereg
+Z39 w1648495163
+R3
+R2
+R5
+R6
+R7
+Z40 8C:/intelFPGA_lite/DD/Lab7/reg1.vhd
+Z41 FC:/intelFPGA_lite/DD/Lab7/reg1.vhd
+l0
+L13
+VJNnNDzG_jOZhJF?FR;@j73
+!s100 ^1c6B6KHmOSlcjgV;fY`43
+R10
+32
+Z42 !s110 1648541385
+!i10b 1
+Z43 !s108 1648541384.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/DD/Lab7/reg1.vhd|
+Z45 !s107 C:/intelFPGA_lite/DD/Lab7/reg1.vhd|
+!i113 1
+R15
+R16
+Abehv
+R3
+R2
+R5
+R6
+DEx4 work 3 reg 0 22 JNnNDzG_jOZhJF?FR;@j73
+l30
+L26
+VD5blg9P90iIJ[WgW1?3<Z1
+!s100 7oAVBRefP5QbCY4AP:ATA2
+R10
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 1
+R15
+R16
+Ereg1
+Z46 w1649106502
+R3
+R2
+R5
+R6
+R7
+R40
+R41
+l0
+L13
+VflnL;5A7M^J5KJMCeR@;j3
+!s100 @FHIj];^?J:C9iP=bOM8K1
+R10
+32
+R11
+!i10b 1
+R12
+R44
+R45
+!i113 1
+R15
+R16
+Abehv
+R3
+R2
+R5
+R6
+R17
+l30
+L26
+V_TY?>2:f6Dam>czY0TOTD1
+!s100 R0ljzeP2DPU7G61X9<j582
+R10
+32
+R11
+!i10b 1
+R12
+R44
+R45
+!i113 1
+R15
+R16
+Esecondtb
+Z47 w1648749390
+R1
+R4
+R5
+R6
+R7
+Z48 8C:/intelFPGA_lite/DD/Lab7/secondTB.vhd
+Z49 FC:/intelFPGA_lite/DD/Lab7/secondTB.vhd
+l0
+L8
+Vde249d3BW0^OUle`<Y0Hm0
+!s100 Ijj4OOVO`NBW]?@3DdheM3
+R10
+32
+R11
+!i10b 1
+R12
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/DD/Lab7/secondTB.vhd|
+Z51 !s107 C:/intelFPGA_lite/DD/Lab7/secondTB.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R4
+R5
+R6
+DEx4 work 8 secondtb 0 22 de249d3BW0^OUle`<Y0Hm0
+l51
+L12
+Ve`K3I;6BgX1A]5>lDU1P82
+!s100 S@zUBa^a4:a=Qd`Dn;7Cb1
+R10
+32
+R11
+!i10b 1
+R12
+R50
+R51
+!i113 1
+R15
+R16

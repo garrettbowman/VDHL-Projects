@@ -1,0 +1,53 @@
+C:/intelFPGA_lite/DD/Lab7/secondTB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/DD/Lab7/secondTB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package altera_mf_components
+-- Compiling entity secondTB
+-- Compiling architecture TB of secondTB
+
+} {} {}} C:/intelFPGA_lite/DD/Lab7/reg1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/DD/Lab7/reg1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg1
+-- Compiling architecture behv of reg1
+
+} {} {}} C:/intelFPGA_lite/DD/Lab7/ram1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/DD/Lab7/ram1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ram1
+-- Compiling architecture SYN of ram1
+
+} {} {}} C:/intelFPGA_lite/DD/Lab7/memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/DD/Lab7/memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package altera_mf_components
+-- Compiling entity memory
+-- Compiling architecture BHV of memory
+-- Loading entity ram1
+-- Loading entity mux_3x1
+-- Loading entity reg1
+
+} {} {}} C:/intelFPGA_lite/DD/Lab7/mux_3x1.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\intelFPGA_lite\DD\Lab7\mux_3x1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_3x1
+-- Compiling architecture BHV of mux_3x1
+
+} {} {}}

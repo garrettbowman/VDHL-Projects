@@ -1,0 +1,22 @@
+C:/intelFPGA_lite/DD/Lab7/firstTB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/DD/Lab7/firstTB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package altera_mf_components
+-- Compiling entity firstTB
+-- Compiling architecture TB of firstTB
+
+} {} {}} C:/intelFPGA_lite/DD/Lab7/mainalu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/DD/Lab7/mainalu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mainalu
+-- Compiling architecture BHV of mainalu
+
+} {} {}}

@@ -1,0 +1,21 @@
+
+State Machine - |top_level_final|controller:U_controller|state
+Name state.branch2 state.branch1 state.jl2 state.jl1 state.ja1 state.IType2 state.IType1 state.rtype2 state.rtype1 state.store2 state.store1 state.load4 state.load3 state.load2 state.load1 state.decode1 state.fetch2 state.fetch1 
+state.fetch1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state.fetch2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.decode1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+state.load1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+state.load2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+state.load3 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+state.load4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+state.store1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+state.store2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+state.rtype1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+state.rtype2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+state.IType1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+state.IType2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+state.ja1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.jl1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.jl2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.branch1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.branch2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
