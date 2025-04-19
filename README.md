@@ -1,2 +1,2 @@
-# sampleVDHL
-VDHL Projects I have created!
+# VDHL
+VDHL Projects I have created in college
