@@ -1,0 +1,69 @@
+# General build and simulation artifacts
+*.log
+*.jou
+*.wdb
+*.vcd
+*.ghw
+*.o
+*.exe
+*.dll
+*.so
+*.lib
+*.a
+*.bak
+*.tmp
+*.dump
+*.rpt
+*.str
+*.asdb
+*.awc
+*.mgf
+*.data
+*.index
+
+# Tool-specific directories and files
+# Xilinx Vivado
+.Xil
+.ipcache
+.cache
+.hw_emu
+.runs
+.sim
+.gen
+xsim.dir/
+vivado*.jou
+vivado*.log
+
+# Intel Quartus Prime
+db/
+incremental_db/
+output_files/
+simulation/
+qdb/
+.qsys_edit/
+*.qpf
+*.qws
+*.sof
+*.pof
+*.rbf
+*.jic
+*.srec
+
+# ModelSim/QuestaSim
+work/
+transcript
+vsim_stacktrace.log
+
+# GHDL
+*.cf
+*.elf
+
+# Eclipse/VS Code/other IDE files
+.project
+.cproject
+.settings/
+.vscode/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
